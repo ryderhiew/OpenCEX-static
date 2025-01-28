@@ -6,7 +6,7 @@
           <div class="copyright">
             {{ new Date().getFullYear() }} © {{ this.$config.axios.title }} Exchange Crypto Investment Platform
           </div>
-          <div class="rights !mb-2">{{$t('built_by')}}</div>
+          <!-- <div class="rights !mb-2">{{$t('built_by')}}</div> -->
           <div class="rights">All Rights Reserved</div>
           <div class="footer__socials-container">
             <a

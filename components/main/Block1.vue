@@ -3,13 +3,13 @@
     <div class="content">
       <div class="grid grid-cols-2 block1">
         <div class="block1-left">
-          <h1>Start Your Crypto Business</h1>
+          <h1>Start Your Crypto Adventure</h1>
           <p class="block-text">Trade crypto in the easiest and safest way!</p>
-          <div class="course">
+          <!-- <div class="course">
             <img src="/img/btc.svg" class="inline-block" />
             <span>BTC Price: {{ course.toFixed(2) }} USDT</span>
-          </div>
-          <a class="btn" href="/account/trade/BTC-USDT">Trade Bitcoin Now</a>
+          </div> -->
+          <a class="btn" href="/account/trade/BTC-USDT">Trade Now</a>
         </div>
         <div class="block1-right">
           <img src="/img/top.png" />
